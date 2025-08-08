@@ -23,5 +23,3 @@ Hooks do React para gerenciamento de estado e controle da reprodução
 
 📌 Objetivo
 O projeto foi desenvolvido com fins de estudo em React.js e para proporcionar uma experiência simples e agradável na audição de audiobooks.
-
-![Uploading image.png…]()
